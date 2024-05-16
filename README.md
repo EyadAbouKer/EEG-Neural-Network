@@ -1,6 +1,5 @@
 # EEG-Based Motor Imagery Decoding Neural Network
-![image](https://github.com/EyadAbouKer/EEG-Neural-Network/assets/126291554/8b1c8b56-10d8-489d-8fc8-d45fed9d1e50)
-
+![image](https://github.com/EyadAbouKer/EEG-Neural-Network/assets/126291554/cdea41de-f779-4ae8-99f8-5efa1bde642b)
 ![img](https://github.com/EyadAbouKer/EEG-Neural-Network/assets/126291554/450bc39d-01ac-4ae6-9026-80ebb96ac946)
 
 
