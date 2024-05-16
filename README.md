@@ -1,5 +1,8 @@
 # EEG-Based Motor Imagery Decoding Neural Network
 
+![img](https://github.com/EyadAbouKer/EEG-Neural-Network/assets/126291554/450bc39d-01ac-4ae6-9026-80ebb96ac946)
+
+
 ## Abstract
 Electroencephalography (EEG) is a widely used neuroimaging technique with applications ranging from clinical diagnosis to cognitive neuroscience. However, its integration with machine learning poses several challenges. This abstract highlights the limitations of EEG in machine learning applications, including its limited spatial resolution, susceptibility to signal noise, and restricted depth of recording. Additionally, the indirect nature of EEG measurements and inter-subject variability present hurdles for developing robust machine learning models. Despite these challenges, EEG remains a valuable tool for studying brain function, and advancements in signal processing and machine learning techniques offer opportunities to overcome these limitations and harness the potential of EEG in various applications.
 
